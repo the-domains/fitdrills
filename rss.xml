@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FIT DRILLS]]></title>
+        <description><![CDATA[FIT DRILLS]]></description>
+        <link>https://thegrid.ai/fitdrills/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 14:32:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fitdrills/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82fa6221-055e-4b89-bfda-c814bf8d062a.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/82fa6221-055e-4b89-bfda-c814bf8d062a.png</link>
+            <guid isPermaLink="false">b9c1dd89-c10c-42c5-a0a3-5c00b7fcc3ea</guid>
+            <pubDate>Sat, 25 Jun 2016 14:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06043143-8b47-4821-81d5-1f1c347693c3.jpg">]]></description>
+            <link>https://thegrid.ai/fitdrills/8d1a7260-9db1-429d-be8d-d63025812a7a/index.html</link>
+            <guid isPermaLink="false">8d1a7260-9db1-429d-be8d-d63025812a7a</guid>
+            <pubDate>Sat, 25 Jun 2016 10:53:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
